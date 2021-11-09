@@ -1,6 +1,10 @@
 # nic.ioni-203t
 Handshake Top-Level Domains
 
+ - GitHub: http://github.ioni-203t.hns.to
+ - namebase.io:  http://namebase.ioni-203t.hns.to
+ - handshake:  http://handshake.ioni-203t.hns.to
+
 ---
 
 https://keybase.io/neko7sora
